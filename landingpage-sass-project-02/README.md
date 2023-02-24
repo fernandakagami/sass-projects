@@ -11,6 +11,8 @@ Project of a Landing Page with SASS
 - HTML
 - SASS
 
+<a href="https://fernandakagami.github.io/sass-projects/sass-project-01/" target="_blank">Link to project</a>
+
 ## :memo: License
 
 This project has a MID license.
